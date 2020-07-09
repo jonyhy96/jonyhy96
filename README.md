@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**jonyhy96/jonyhy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I'm a golang backend web developer,looking for opportunity to make contribution to open source project & make the world a better place 😄.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on golang backend service
+- 🌱 I’m currently learning k8s/faas/rust/wasm
+- 👯 I’m looking to collaborate on open source project
+- 🤔 I’m looking for help with how to master algorithm
+- 💬 Ask me about golang/docker/k8s
+- 📫 How to reach me: hy352144278@gmail.com
+- 😄 Pronouns: jony
+- ⚡ Fun fact: The essence of mankind is the repeater
+
